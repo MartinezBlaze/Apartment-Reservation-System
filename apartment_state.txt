@@ -1,0 +1,13 @@
+Apartment A Room 0 occupant: 0
+Apartment A Room 1 occupant: 1
+Apartment A Room 2 occupant: 0
+Apartment A Room 3 occupant: 0
+Apartment A Room 4 occupant: 0
+Apartment B Room 0 occupant: 0, regular bedroom available: 2, master bedroom available: 1
+Apartment B Room 1 occupant: 0, regular bedroom available: 2, master bedroom available: 1
+Apartment B Room 2 occupant: 0, regular bedroom available: 2, master bedroom available: 1
+Apartment B Room 3 occupant: 0, regular bedroom available: 2, master bedroom available: 1
+Apartment B Room 4 occupant: 0, regular bedroom available: 2, master bedroom available: 1
+Check out date: 2019-06-07, days remaining: 140, name: Martin, StudentID: 001, apartment type Apartment A, bedroom_type: R, room number: 1
+Total student living in apartment A: 1
+Total student living in apartment B: 0
